@@ -1,0 +1,15 @@
+ShowKeyPlus - Windows Product Information
+
+Product Name:	Windows 10 Home
+
+Product ID:   	00356-02650-76160-AAOEM
+
+Build Version:	22000.778 (64-bit OS)
+
+Installed Key:	T2RPK-NHG77-YCM8P-C8XW6-683XB
+
+OEM Key:	T2RPK-NHG77-YCM8P-C8XW6-683XB
+
+OEM Edition:	Win 10 RTM Core OEM:DM
+
+
